@@ -9,5 +9,5 @@ go test -v ./...
 ## Installation
 
 ```
-go get github.com/inabe49/go-collection
+go get -u github.com/inabe49/go-collection
 ```
